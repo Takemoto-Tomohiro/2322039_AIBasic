@@ -32,6 +32,8 @@ python manage.py runserver --noreload --nothreading
 を実行。
 
 5,実際に動かす
-　→「http://127.0.0.1:8000/api/v1/predict/」にアクセスする
+　→「
+ http://127.0.0.1:8000/api/v1/predict/
+ 」にアクセスする
 
 6,画面下部のテキスト欄に判定したいテキストを入力する
