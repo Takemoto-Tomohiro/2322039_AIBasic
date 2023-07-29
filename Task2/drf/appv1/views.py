@@ -10,7 +10,7 @@ from rest_framework import mixins
 
 
 class BertPredictAPIView(mixins.ListModelMixin,mixins.CreateModelMixin,generics.GenericAPIView):
-    """CATL課題_BERTを用いた業界概要分類クラス"""
+    """AI基礎　第七週　自然言語処理AI"""
     serializer_class = BertPredictSerializer
 
     def post(self, request, *args, **kwargs):     
