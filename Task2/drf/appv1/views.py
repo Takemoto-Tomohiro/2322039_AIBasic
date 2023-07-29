@@ -10,7 +10,7 @@ from rest_framework import mixins
 
 
 class BertPredictAPIView(mixins.ListModelMixin,mixins.CreateModelMixin,generics.GenericAPIView):
-    """AI基礎　第七週　自然言語処理AI"""
+    """人工知能基礎　第七週　自然言語処理AI"""
     serializer_class = BertPredictSerializer
 
     def post(self, request, *args, **kwargs):     
