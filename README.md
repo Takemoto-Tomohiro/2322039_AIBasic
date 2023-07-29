@@ -3,7 +3,11 @@
 THX for downroading!!
 
 -はじめに-
-このデータは「https://qiita.com/ysiny/items/b01250228e0c5cc0e647」、「https://qiita.com/ysiny/items/30e10a3db76c6f7c5b4d」を参考にし、また、コードもそちらのサイトからダウンロードさせてもらったものを書き換えつつ利用しています。
+このデータは「
+https://qiita.com/ysiny/items/b01250228e0c5cc0e647
+」、「
+https://qiita.com/ysiny/items/30e10a3db76c6f7c5b4d
+」を参考にし、また、コードもそちらのサイトからダウンロードさせてもらったものを書き換えつつ利用しています。
 
 -使い方-
 
